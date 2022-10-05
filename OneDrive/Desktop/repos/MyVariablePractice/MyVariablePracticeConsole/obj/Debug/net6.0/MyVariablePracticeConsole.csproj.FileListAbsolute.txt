@@ -1,0 +1,15 @@
+C:\Users\blitz\OneDrive\Desktop\repos\MyVariablePractice\MyVariablePracticeConsole\obj\Debug\net6.0\MyVariablePracticeConsole.csproj.AssemblyReference.cache
+C:\Users\blitz\OneDrive\Desktop\repos\MyVariablePractice\MyVariablePracticeConsole\obj\Debug\net6.0\MyVariablePracticeConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blitz\OneDrive\Desktop\repos\MyVariablePractice\MyVariablePracticeConsole\obj\Debug\net6.0\MyVariablePracticeConsole.AssemblyInfoInputs.cache
+C:\Users\blitz\OneDrive\Desktop\repos\MyVariablePractice\MyVariablePracticeConsole\obj\Debug\net6.0\MyVariablePracticeConsole.AssemblyInfo.cs
+C:\Users\blitz\OneDrive\Desktop\repos\MyVariablePractice\MyVariablePracticeConsole\obj\Debug\net6.0\MyVariablePracticeConsole.csproj.CoreCompileInputs.cache
+C:\Users\blitz\OneDrive\Desktop\repos\MyVariablePractice\MyVariablePracticeConsole\bin\Debug\net6.0\MyVariablePracticeConsole.exe
+C:\Users\blitz\OneDrive\Desktop\repos\MyVariablePractice\MyVariablePracticeConsole\bin\Debug\net6.0\MyVariablePracticeConsole.deps.json
+C:\Users\blitz\OneDrive\Desktop\repos\MyVariablePractice\MyVariablePracticeConsole\bin\Debug\net6.0\MyVariablePracticeConsole.runtimeconfig.json
+C:\Users\blitz\OneDrive\Desktop\repos\MyVariablePractice\MyVariablePracticeConsole\bin\Debug\net6.0\MyVariablePracticeConsole.dll
+C:\Users\blitz\OneDrive\Desktop\repos\MyVariablePractice\MyVariablePracticeConsole\bin\Debug\net6.0\MyVariablePracticeConsole.pdb
+C:\Users\blitz\OneDrive\Desktop\repos\MyVariablePractice\MyVariablePracticeConsole\obj\Debug\net6.0\MyVariablePracticeConsole.dll
+C:\Users\blitz\OneDrive\Desktop\repos\MyVariablePractice\MyVariablePracticeConsole\obj\Debug\net6.0\refint\MyVariablePracticeConsole.dll
+C:\Users\blitz\OneDrive\Desktop\repos\MyVariablePractice\MyVariablePracticeConsole\obj\Debug\net6.0\MyVariablePracticeConsole.pdb
+C:\Users\blitz\OneDrive\Desktop\repos\MyVariablePractice\MyVariablePracticeConsole\obj\Debug\net6.0\MyVariablePracticeConsole.genruntimeconfig.cache
+C:\Users\blitz\OneDrive\Desktop\repos\MyVariablePractice\MyVariablePracticeConsole\obj\Debug\net6.0\ref\MyVariablePracticeConsole.dll
